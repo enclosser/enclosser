@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://img.shields.io/badge/PYTHON-blue)
+![](https://img.shields.io/badge/Django-green)
+![](https://img.shields.io/badge/FastAPI-green)
+![](https://img.shields.io/badge/Scrapy-green)
+![](https://img.shields.io/badge/-SQLAlchemy-green)
+       
+![](https://komarev.com/ghpvc/?username=enclosser)
