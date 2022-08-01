@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=4000&vCenter=true&lines=My+name+is+Andrey+and+am+a+Python+developer.)](https://git.io/typing-svg)
+
 ![](https://img.shields.io/badge/PYTHON-blue)
 ![](https://img.shields.io/badge/Django-green)
 ![](https://img.shields.io/badge/FastAPI-green)
